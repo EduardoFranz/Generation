@@ -1,7 +1,9 @@
 
 <h1 align="center">Generation Brasil</h1>
-<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Java Web</p>
 
+<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Java / Web </p>
+
+##
 <details>
 <summary>📆 Cronograma (12 semanas) </summary>
   <!--ts-->
