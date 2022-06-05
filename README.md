@@ -3,25 +3,24 @@
 <p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Java Web</p>
 
 <details>
-<summary>Clique para navegar</summary>
-</details>
-
-📆 Cronograma
-
+<summary>📆 Cronograma (12 semanas) </summary>
   <!--ts-->
-   * [Semana 01](#Semana01)
-   * [Semana 02](#Semana02)
-   * [Semana 03](#Semana03)
-   * [Semana 04](#Semana04)
-   * [Semana 05](#Semana05)
-   * [Semana 06](#Semana06)
-   * [Semana 07](#Semana07)
-   * [Semana 08](#Semana08)
-   * [Semana 09](#Semana09)
-   * [Semana 10](#Semana10)
-   * [Semana 11](#Semana11)
-   * [Semana 12](#Semana12)
-<!--te-->
+  
+  * [Semana 01](#Semana01)
+  * [Semana 02](#Semana02)
+  * [Semana 03](#Semana03)
+  * [Semana 04](#Semana04)
+  * [Semana 05](#Semana05)
+  * [Semana 06](#Semana06)
+  * [Semana 07](#Semana07)
+  * [Semana 08](#Semana08)
+  * [Semana 09](#Semana09)
+  * [Semana 10](#Semana10)
+  * [Semana 11](#Semana11)
+  * [Semana 12](#Semana12)
+  
+</details>
+ 
 ##
 🎯​ Módulos
 <p align="left">
