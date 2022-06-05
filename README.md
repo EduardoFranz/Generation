@@ -25,14 +25,14 @@
  
 ##
 🎯​ Módulos
-<p align="left">
- <a href="#Bloco 01">Bloco 01</a> •
- <a href="#Bloco 02">Bloco 02</a> • 
- <a href="#Bloco 03">Bloco 03</a> 
-</p>
-
-✅ Semana 01
-     <!--ts-->
+* Bloco 01
+* Bloco 02
+* Bloco 03
+##
+<details>
+<summary>✅ Semana 01 </summary>
+  
+  <!--ts-->
    * SoftSkills
    * [Trabalho em equipe](#Trabalhoemequipe)
    * [Comunicação](#Comunicação)
@@ -41,9 +41,13 @@
    * [Persistência](#Persistência)
    * [Orientação ao Futuro](#Orientaçãoaofuturo)
    * [Orientação ao detalhe](#Orientaçãoaodetalhe)
-   * [Mentalidade de crescimento](#Mentalidadedecrescimento)
-    <!--te-->
-##  
+   * [Mentalidade de crescimento](#Mentalidadedecrescimento)  
+  
+  
+  
+</details>
+
+ ##
  ### 🛠 Tecnologias Utilizadas
    <div style="display: inline_block"><br>
     <img align="center" alt="Du-HTML5" height="25" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
