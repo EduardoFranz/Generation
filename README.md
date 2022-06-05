@@ -1,37 +1,38 @@
 
 <h1 align="center">Generation Brasil</h1>
-<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Java Web</p>
 
+<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Java / Web </p>
+
+##
 <details>
-<summary>Clique para navegar</summary>
-</details>
-
-📆 Cronograma
-
+<summary>📆 Cronograma (12 semanas) </summary>
   <!--ts-->
-   * [Semana 01](#Semana01)
-   * [Semana 02](#Semana02)
-   * [Semana 03](#Semana03)
-   * [Semana 04](#Semana04)
-   * [Semana 05](#Semana05)
-   * [Semana 06](#Semana06)
-   * [Semana 07](#Semana07)
-   * [Semana 08](#Semana08)
-   * [Semana 09](#Semana09)
-   * [Semana 10](#Semana10)
-   * [Semana 11](#Semana11)
-   * [Semana 12](#Semana12)
-<!--te-->
+  
+  * [Semana 01](#Semana01)
+  * [Semana 02](#Semana02)
+  * [Semana 03](#Semana03)
+  * [Semana 04](#Semana04)
+  * [Semana 05](#Semana05)
+  * [Semana 06](#Semana06)
+  * [Semana 07](#Semana07)
+  * [Semana 08](#Semana08)
+  * [Semana 09](#Semana09)
+  * [Semana 10](#Semana10)
+  * [Semana 11](#Semana11)
+  * [Semana 12](#Semana12)
+  
+</details>
+ 
 ##
 🎯​ Módulos
-<p align="left">
- <a href="#Bloco 01">Bloco 01</a> •
- <a href="#Bloco 02">Bloco 02</a> • 
- <a href="#Bloco 03">Bloco 03</a> 
-</p>
-
-✅ Semana 01
-     <!--ts-->
+* Bloco 01
+* Bloco 02
+* Bloco 03
+##
+<details>
+<summary>✅ Semana 01 </summary>
+  
+  <!--ts-->
    * SoftSkills
    * [Trabalho em equipe](#Trabalhoemequipe)
    * [Comunicação](#Comunicação)
@@ -40,9 +41,13 @@
    * [Persistência](#Persistência)
    * [Orientação ao Futuro](#Orientaçãoaofuturo)
    * [Orientação ao detalhe](#Orientaçãoaodetalhe)
-   * [Mentalidade de crescimento](#Mentalidadedecrescimento)
-    <!--te-->
-##  
+   * [Mentalidade de crescimento](#Mentalidadedecrescimento)  
+  
+  
+  
+</details>
+
+ ##
  ### 🛠 Tecnologias Utilizadas
    <div style="display: inline_block"><br>
     <img align="center" alt="Du-HTML5" height="25" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
