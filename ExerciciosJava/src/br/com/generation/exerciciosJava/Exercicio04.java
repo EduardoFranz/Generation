@@ -1,4 +1,4 @@
-package br.com.generation.condicionais;
+package br.com.generation.exerciciosJava;
 
 import java.util.Scanner;
 
