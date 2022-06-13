@@ -20,8 +20,8 @@ public class Cliente {
 	}
 	
 	public void dadosCliente() {
-		System.out.println("--------Dados do Cliente---------------");
-		System.out.println("Nome do cliente:" + nome + "Idade:" + idade + "email " + email + "telefone " + telefone);
+		System.out.println("-------- Dados do Cliente ---------------");
+		System.out.println("Nome do cliente:" + nome + "Idade:" + idade + "email " + email + "telefone " + telefone + "\n");
 	}
 	
 	

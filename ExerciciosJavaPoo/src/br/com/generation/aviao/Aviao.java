@@ -21,8 +21,8 @@ public class Aviao {
 	//
 	
 	public void dadosAviao() {
-		System.out.println("--------Dados do Avião---------------");
-		System.out.println("Modelo:" + modelo + "Cor:" + cor + "tamanho " + tamanho + "Número de acentos " + numerodeacentos);
+		System.out.println("-------- Dados do Avião ---------------");
+		System.out.println("Modelo:" + modelo + "Cor:" + cor + "tamanho " + tamanho + "Número de acentos " + numerodeacentos+"\n");
 	}
 	
 	

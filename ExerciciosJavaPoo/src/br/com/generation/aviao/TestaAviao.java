@@ -7,11 +7,10 @@ public class TestaAviao {
 
 		Aviao Aviao1 = new Aviao("Jatinho ","Azul ", "Porte Grande " , 50);
 		
-		//dados aviao
-		
+		//dados do aviao atualizado
+				
 		Aviao1.dadosAviao();
 		
-		//dados do aviao atualizado
 		
 		
 		
