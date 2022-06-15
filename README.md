@@ -29,23 +29,7 @@
 * Bloco 02
 * Bloco 03
 ##
-<details>
-<summary>✅ Semana 01 </summary>
-  
-  <!--ts-->
-   * SoftSkills
-   * [Trabalho em equipe](#Trabalhoemequipe)
-   * [Comunicação](#Comunicação)
-   * [Proatividade](#Proatividade)
-   * [Responsabilidade Pessoal](#ResponsabilidadePessoal)
-   * [Persistência](#Persistência)
-   * [Orientação ao Futuro](#Orientaçãoaofuturo)
-   * [Orientação ao detalhe](#Orientaçãoaodetalhe)
-   * [Mentalidade de crescimento](#Mentalidadedecrescimento)  
-  
-  
-  
-</details>
+
 
  ##
  ### 🛠 Tecnologias Utilizadas
