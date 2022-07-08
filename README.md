@@ -1,7 +1,7 @@
 
 <h1 align="center">Generation Brasil</h1>
 
-<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Web Java </p>
+<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Web Full Stack Java </p>
 
 ##
 <details>
