@@ -37,10 +37,10 @@ SELECT * FROM tb_estudantes;
 -- inserindo registros na tabela estudantes
 INSERT INTO tb_estudantes(matricula,nome,nota,idade,serie) VALUES (1,"Edu",7.0,15,"Terceiro C");
 
--- para ver qual nota da tabela estudante é o maior que 500
+-- para ver qual nota da tabela estudante é o maior que 7
 SELECT * FROM tb_estudantes WHERE nota > 7.0;
 
--- para ver qual nota da tabela estudante é o menor que 500
+-- para ver qual nota da tabela estudante é o menor que 7
 SELECT * FROM tb_estudantes WHERE nota < 7.0;
 
 -- atualizar um registro na tabela

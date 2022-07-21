@@ -71,5 +71,5 @@ ON tb_classes.id = tb_personagens.personagens_id;
 
 -- fazendo inner join e trazendo apenas personagem de uma certa classe
 SELECT * FROM tb_personagens INNER JOIN tb_classes
-ON tb_classes.id = tb_personagens.personagens_id;
+ON tb_classes.id = tb_personagens.personagens_id; 
 
