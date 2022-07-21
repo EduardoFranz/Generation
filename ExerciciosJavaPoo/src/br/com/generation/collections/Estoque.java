@@ -14,12 +14,14 @@ public class Estoque {
 	
 	
 	public Estoque(String celular, String televisao, String computadores, String tablets) {
-		// TODO Auto-generated constructor stub
+		
 		this.celular = celular;
 		this.televisao = televisao;
 		this.computadores = computadores;
 		this.tablets = tablets;
 	}
+
+	
 
 	//gettes e setters
 	public String getCelular() {
@@ -50,8 +52,8 @@ public class Estoque {
 	//
 	@Override
 	public String toString() {
-		return "Estoque celular = " + celular + ", televisao= " + televisao + ", computadores = " + computadores
-				+ ", tablets = " + tablets;
+		return "Estoque celular = " + this.celular + ", televisao= " + this.televisao + ", computadores = " + this.computadores
+				+ ", tablets = " + this.tablets;
 	}
 	
 
