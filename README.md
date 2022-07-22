@@ -2,14 +2,12 @@
 <h1 align="center">Generation Brasil</h1>
 <p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Web Full Stack | Java </p>
 
-
-
-<h2 align="center"> Um pouco sobre o bootcamp </h2>
+<h2 align="left"> Um pouco sobre o bootcamp </h2>
 <p align="left">A Generation é uma organização sem fins lucrativos. Movida pela crença de que todos devem ter oportunidades de construir uma carreira de sucesso, busca eliminar a lacuna de habilidades entre jovens e apoiar as empresas no acesso a talentos com a qualificação que elas precisam. </p>
 
 
 ##
-<p align="center"></p>
+
 
 
 📙  Projetos e Atividades
@@ -87,4 +85,4 @@
 ##
 📌 Status : Cursando 
 ##
-<a href=“https://brazil.generation.org/2022/05/24/mes-de-maio-generation-brasil-celebra-nova-turma-de-programacao-em-java-full-stack-jr/“>Clique para conhecer a Generation</a> 
+👉 <a href=“https://brazil.generation.org/2022/05/24/mes-de-maio-generation-brasil-celebra-nova-turma-de-programacao-em-java-full-stack-jr/“>Clique para conhecer a Generation</a> 
