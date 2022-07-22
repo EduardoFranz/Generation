@@ -1,13 +1,26 @@
 
 <h1 align="center">Generation Brasil</h1>
+<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Web Full Stack | Java </p>
 
-<p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Web Full Stack Java </p>
+
+
+<h2 align="center"> Um pouco sobre o bootcamp </h2>
+<p align="left"> <a href=“https://brazil.generation.org/2022/05/24/mes-de-maio-generation-brasil-celebra-nova-turma-de-programacao-em-java-full-stack-jr/“>Generation Brasil</a> é uma organização sem fins lucrativos. Movida pela crença de que todos devem ter oportunidades de construir uma carreira de sucesso, busca eliminar a lacuna de habilidades entre jovens e apoiar as empresas no acesso a talentos com a qualificação que elas precisam. </p>
+
 
 ##
 <p align="center"></p>
 
-📆 Cronograma
 
+📙  Projetos e Atividades
+
+* WayTech
+* Toda Dona (e-commerce)
+* Blog Pessoal
+* Farmacia (CRUD)
+* LojaGames (CRUD)
+
+      
 ##
 🎯​ Módulos
 * Módulo 01
@@ -49,7 +62,14 @@
 * Módulo 03
 ##
 
-* Soft skills
+🗣️ Soft skills
+
+* Comunicação
+* Trabalho em equipe
+* Persistência
+* Proatividade
+* Responsabilidade pessoal
+* Mentalidade de crescimento
 
  ##
  ### 🛠 Tecnologias Utilizadas
