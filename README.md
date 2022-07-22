@@ -2,6 +2,7 @@
 <h1 align="center">Generation Brasil</h1>
 <p align="center">Conteúdo do Bootcamp Generation Brasil | Curso Desenvolvedor Web Full Stack | Java </p>
 
+##
 <h2 align="left"> Um pouco sobre o bootcamp </h2>
 <p align="left">A Generation é uma organização sem fins lucrativos. Movida pela crença de que todos devem ter oportunidades de construir uma carreira de sucesso, busca eliminar a lacuna de habilidades entre jovens e apoiar as empresas no acesso a talentos com a qualificação que elas precisam. O curso simula um ambiente profissional que visa desenvolver habilidades comportamentais como trabalho em equipe, responsabilidade pessoal, orientação aos detalhes e proatividade. </p>
 
@@ -42,7 +43,7 @@
 
 * Módulo 02
 
-      [Spring Framework e Sql ]
+      [ Spring Framework e Sql ]
       [ Modelagem de dados ]
       [ SQL]
       [ MySQL]
