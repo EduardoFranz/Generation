@@ -4,7 +4,7 @@
 
 ##
 <h2 align="left"> Um pouco sobre o bootcamp </h2>
-<p align="left">A Generation é uma organização sem fins lucrativos. Movida pela crença de que todos devem ter oportunidades de construir uma carreira de sucesso, busca eliminar a lacuna de habilidades entre jovens e apoiar as empresas no acesso a talentos com a qualificação que elas precisam. O curso simula um ambiente profissional que visa desenvolver habilidades comportamentais como trabalho em equipe, responsabilidade pessoal, orientação aos detalhes e proatividade. </p>
+<p align="justify">A Generation é uma organização sem fins lucrativos. Movida pela crença de que todos devem ter oportunidades de construir uma carreira de sucesso, busca eliminar a lacuna de habilidades entre jovens e apoiar as empresas no acesso a talentos com a qualificação que elas precisam. O curso simula um ambiente profissional que visa desenvolver habilidades comportamentais como trabalho em equipe, responsabilidade pessoal, orientação aos detalhes e proatividade. </p>
 
 
 ##
@@ -14,7 +14,7 @@
 📙  Projetos e Atividades
 
 * WayTech
-* Toda Dona (e-commerce)
+* Toda Dona (E-commerce)
 * Blog Pessoal
 * Farmacia (CRUD)
 * LojaGames (CRUD)
@@ -23,7 +23,6 @@
 ##
 🎯​ Módulos
 * Módulo 01
-
 
       [ Versionamento e Terminal]
       [ Git e GitHub]
@@ -41,7 +40,7 @@
       [ Composição e herança ]
  
 
-* Módulo 02
+* Módulo 02 (Back-end)
 
       [ Spring Framework e Sql ]
       [ Modelagem de dados ]
@@ -58,7 +57,13 @@
       [ Testes Comportamentais em Java ]
       [ Deploy de Aplicações ( Heroku )]
 
-* Módulo 03
+* Módulo 03 (Front-end)
+
+      [ Fundamentos Web]
+      [ HTML5]
+      [ CSS3]
+      [ JavaScript]
+      [ React]
 ##
 
 🗣️ Soft skills
