@@ -17,7 +17,7 @@
 * Toda Dona (E-commerce)
 * Blog Pessoal
 * Farmacia (CRUD)
-* LojaGames (CRUD)
+* LojaGames (CRUD)[](https://github.com/EduardoFranz/LojaGames)
 
       
 ##
