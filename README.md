@@ -16,8 +16,8 @@
 * WayTech
 * Toda Dona (E-commerce)
 * Blog Pessoal
-* Farmacia (CRUD)
-* LojaGames (CRUD)[](https://github.com/EduardoFranz/LojaGames)
+* Farmacia (CRUD) [aqui](https://github.com/EduardoFranz/Farmacia)
+* LojaGames (CRUD) [ aqui ](https://github.com/EduardoFranz/LojaGames)
 
       
 ##
